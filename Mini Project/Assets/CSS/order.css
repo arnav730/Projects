@@ -1,0 +1,8 @@
+.container{
+    margin-top: 50px
+}
+
+body{
+    background-image: url(abc.jpeg);
+    background-size:cover;
+}
